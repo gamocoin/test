@@ -1,14 +1,8 @@
 console.log("Hello world formthe zenkings.com")
-cons
-cons
-cons
-cons
-cons
-hellow 
-hellow 
-hellow 
-hellow 
-hellow 
-hellow 
-hellow 
-hellow 
+console.log("Hello world formthe zenkings.com")
+console.log("Hello world formthe zenkings.com")
+console.log("Hello world formthe zenkings.com")
+console.log("Hello world formthe zenkings.com")
+console.log("Hello world formthe zenkings.com")
+console.log("Hello world formthe zenkings.com")
+console.log("Hello world formthe zenkings.com")
